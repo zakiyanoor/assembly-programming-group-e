@@ -1,5 +1,5 @@
 section .data
-    num dd 1234
+    num dw 1234
 
 section .text
     global _start
